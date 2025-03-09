@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: pointnet2
+Version: 3.0.0
+License-File: LICENSE
+Requires-Dist: hydra-core==0.11.3
