@@ -132,8 +132,8 @@ We provide pre-trained models on PUGAN and PU1K to facilitate the reproduction o
 
 | Dataset | Upsampling Ratio | CD (x10⁻³) | HD (x10⁻³) | P2F (x10⁻³) | Download Link |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| PUGAN | 4x | **0.119** | **1.206** | 1.897 | [Link_to_PUGAN_4x_model.pth]() |
-| PU1K | 4x | **0.155** | **1.588** | 1.354 | [Link_to_PU1K_4x_model.pth]() |
+| PUGAN | 4x | **0.119** | **1.206** | 1.897 | [Link_to_PUGAN_4x_model.pth](https://drive.google.com/drive/u/0/folders/1-wblidYA1mvkhF9_pI-GYgMzYTifKzUd) |
+| PU1K | 4x | **0.155** | **1.588** | 1.354 | [Link_to_PU1K_4x_model.pth](https://drive.google.com/drive/u/0/folders/1-wblidYA1mvkhF9_pI-GYgMzYTifKzUd) |
 
 *Note: Model links will be provided after the code is fully open-sourced.*
 
