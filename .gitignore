@@ -21,3 +21,4 @@ _ext-src/
 .idea/
 .vscode/
 *.swp
+*.zip
