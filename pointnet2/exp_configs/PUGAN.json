@@ -52,7 +52,7 @@
             "include_grouper": false,
             "decoder_mlp_depth": 2,
             "use_knn_FP": true,
-            "K": 8
+            "K": 5
         },
         "condition_net_architecture": {
             "npoint": "[1024, 256, 64, 64]",
@@ -65,7 +65,7 @@
             "include_grouper": false,
             "decoder_mlp_depth": 2,
             "use_knn_FP": true,
-            "K": 8
+            "K": 5
         },
         "feature_mapper_architecture": {
             "neighbor_definition": "radius",
@@ -96,7 +96,7 @@
         "novel_input": false,
         "novel_input_only": false,
         "scale": 1,
-        "batch_size": 8,
+        "batch_size": 10,
         "eval_batch_size": 28,
         "num_workers": 4,
         "num_samples_tested": 1600,
@@ -111,7 +111,7 @@
             "translation_magnitude": 0.1,
             "noise_magnitude_for_generated_samples": 0
         },
-        "R": 2
+        "R": 4
     },
     "gen_config": {
         "ckpt_path": "logs/checkpoint"

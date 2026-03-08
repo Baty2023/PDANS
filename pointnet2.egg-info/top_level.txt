@@ -1,2 +1,0 @@
-pointnet2
-pointops

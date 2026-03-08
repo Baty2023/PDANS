@@ -1,0 +1,23 @@
+# Ignore weights and large files
+pointnet2/pkls/
+pytorch3d*.tar.bz2
+
+# Build and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+*.egg-info/
+*.egg
+*.so
+_ext-src/
+
+# IDE
+.idea/
+.vscode/
+*.swp
